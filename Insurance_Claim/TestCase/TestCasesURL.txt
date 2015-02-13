@@ -1,0 +1,1 @@
+http://cads-insurance-dev.elasticbeanstalk.com/Insurance_Claim.jsp
