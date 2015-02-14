@@ -204,14 +204,14 @@ body{font-family:"Arial"}
 				</tr>
 			  
 
-	  <!--Loss Description Field AddDemo- Appworks Demo - begin -->
+	  <!--Loss Description Field AddDemo- Appworks Demo - begin 
 		
 		 		 <tr style="background-color:red">
 
 					<td><span style="color: #ff0000">*</span><label>Loss&nbsp;Description<span
 							class="dttab"></span></label></td>
 					<td><textarea rows="4" cols="30" name="Ldesc" id="Ldesc">${Ldesc}</textarea></td>
-				</tr>
+				</tr>  
 		 
      <!-- Loss Description Field Demo - Appworks Demo --ServiceMesh - end --> 
 		
