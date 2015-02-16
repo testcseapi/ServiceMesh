@@ -204,7 +204,7 @@ body{font-family:"Arial"}
 				</tr>
 			  
 
-	  <!--Loss Description Field AddDemo- Appworks Demo - begin  
+	  <!--Loss Description Field AddDemo- Appworks Demo - begin  -->
 		
 		 		 <tr style="background-color:purple">
 
@@ -213,7 +213,7 @@ body{font-family:"Arial"}
 					<td><textarea rows="4" cols="30" name="Ldesc" id="Ldesc">${Ldesc}</textarea></td>
 				</tr>  
 		 
-     <!-- Loss Description Field Demo - Appworks Demo --ServiceMesh - end --> 
+     <!-- Loss Description Field Demo - Appworks Demo --ServiceMesh - end -->
 		
 		
 				<tr>
