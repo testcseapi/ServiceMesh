@@ -204,10 +204,10 @@ body{font-family:"Arial"}
 				</tr>
 			  
 
-	  <!--Loss Description Field AddDemo- Appworks Demo --- begin -->
+	  <!--Loss Description Field AddDemo- Appworks Demo --- begin-->
 
 
-		 		 <tr style="background-color:red">
+		 		 <tr style="background-color:blue">
 		 		 
 					<td><span style="color: #ff0000">*</span><label>Loss&nbsp;Description<span
 							class="dttab"></span></label></td>
