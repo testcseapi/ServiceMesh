@@ -11,6 +11,7 @@
 <script type="text/javascript" src="js/jquery-time-ui.min.js"></script>
 <link rel="stylesheet" media="all" type="text/css"
 	href="css/jquery-ui-timepicker-addon.css" />
+	
 <script>
 	$(function() {
 		$("#datepicker").datepicker();
@@ -207,7 +208,7 @@ body{font-family:"Arial"}
 	  <!--Loss Description Field AddDemo- Appworks Demo ------- begin -->
 
 
-		 		 <tr style="background-color:yellow">
+		 		 <tr style="background-color:red">
 		 		 
 					<td><span style="color: #ff0000">*</span><label>Loss&nbsp;Description<span
 							class="dttab"></span></label></td>
